@@ -29,5 +29,11 @@ bootstrap是一套前端样式库，可解决大多数互联网公司的需求
 
 网址：http://www.css88.com/doc/underscore/
 
+## 7.Swiper-3.4.2 ##
+
+制作微场景神器
+
+网址：http://www.swiper.com.cn/
+
 
 
