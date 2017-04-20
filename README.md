@@ -35,5 +35,11 @@ bootstrap是一套前端样式库，可解决大多数互联网公司的需求
 
 网址：http://www.swiper.com.cn/
 
+## 8.Datejs-all-1.0 Alpha-1 ##
+
+是一个用来操作日期的库，操作日期比较方便。
+
+网站：http://www.datejs.com/
+
 
 
