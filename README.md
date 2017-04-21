@@ -41,5 +41,17 @@ bootstrap是一套前端样式库，可解决大多数互联网公司的需求
 
 网站：http://www.datejs.com/
 
+## 9.bootstrap-filestyle-1.2.1## 
+
+一套bootstrap上传样式库，抵制丑。
+
+网址：http://markusslima.github.io/bootstrap-filestyle/#
+
+
+## 10.基于Bootstrup 3可预览的HTML5文件上传插件---uploadfile## 
+
+可以上传文件进行预览。
+
+网址：http://www.htmleaf.com/html5/html5muban/201505091801.html
 
 
